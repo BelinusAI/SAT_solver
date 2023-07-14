@@ -8,6 +8,7 @@ literal: a pair (a tuple), containing a variable and a Boolean value (False if n
 clause: a list of literals
 formula: as a list of clauses
 
+##Implementation
 satisfying_assignment(formula)
 
-$ python sudoku_to_sat.py ../Examples/input_sudoku.txt
+
