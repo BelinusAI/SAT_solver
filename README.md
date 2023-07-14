@@ -9,6 +9,11 @@ clause: a list of literals
 formula: as a list of clauses
 
 ## Implementation
-satisfying_assignment(formula)
+* Read and parse input from a file.
+* Convert the problem to CNF clauses.
+
+
+`    satisfying_assignment(formula)`  
+
 
 
