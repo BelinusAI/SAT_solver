@@ -13,7 +13,9 @@ formula: as a list of clauses
 * Convert the problem to CNF clauses.
 
 
-`    satisfying_assignment(formula)`  
+```
+  satisfying_assignment(formula)
+```
 
 
 
