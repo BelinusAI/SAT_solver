@@ -11,10 +11,11 @@ formula: as a list of clauses
 ## Implementation
 * Read and parse input from a file.
 * Convert the problem to CNF clauses.
+* Execute
 
 
 ```
-  satisfying_assignment(formula)
+  sat.satisfying_assignment(formula)
 ```
 
 
