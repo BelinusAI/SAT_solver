@@ -9,3 +9,5 @@ clause: a list of literals
 formula: as a list of clauses
 
 satisfying_assignment(formula)
+
+$ python sudoku_to_sat.py ../Examples/input_sudoku.txt
